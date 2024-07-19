@@ -2,7 +2,7 @@ function setup() {
   createCanvas(400, 400);
   strokeWeight(10);
   stroke('pink');
-  background(52,195,235);
+  background(235, 52, 128);
   
   frameRate(12);
   
